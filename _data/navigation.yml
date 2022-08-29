@@ -1,0 +1,56 @@
+# the production_url is the url that the parent/child site have in common
+#  e.g. production_url: https://ucsb-cs24.github.io
+#  for main site http://ucsb-cs24.github.io
+#  and child sites
+#    https://ucsb-cs24.github.io/w18
+#    https://ucsb-cs24.github.io/f18
+#    https://ucsb-cs24.github.io/s19
+#    etc.
+
+production_url: https://ucsb-pstat215.github.io/
+
+# List the title and url for each item on navigation bar.
+# For items that should be relative urls, put the baseurl of the site
+# they come from, / for main site, and /f18, /s19, etc for child sites.
+
+home:
+   title: UCSB PSTAT 215
+
+offerings:
+   title: <b>F22</b>
+   url: /
+   baseurl: /web
+   items:
+      - title: F22
+        url: /web
+        baseurl: /web
+
+
+offering_links: 
+
+  - title: Weekly schedule
+    url: /info/schedule/
+    description: "Lecture + Office Hours"
+
+  - title: Animations
+    url: /info/animations/
+    description: "Animations from class lecture"
+
+  - title: Links
+    dropdown:
+      - title: pstat215.lsit.ucsb.edu
+        url: https://bit.ly/3mSOXtM
+        description: "Sync material to the cloud"
+      - title: Lecture link
+        url: https://ucsb.zoom.us/j/86960464797?pwd=aTdnbFRGSGpBbklEREVhSmpDL3dVdz09
+        description: zoom link to lecture
+      - title: Lecture recordings
+        url: https://drive.google.com/drive/folders/16OItK0b0wu00wUHDdKJvpPj7i0v1hgt4?usp=sharing
+      - title: Gradescope
+        url: https://www.gradescope.com/courses/344698
+      - title: Nectir
+        url: https://ucsb.nectir.io/group/pstat215-w22
+        description: "Q&A Forum"
+      - title: Texbook
+        url: https://www.bayesrulesbook.com/
+        description: Course textbook - Bayes Rules
