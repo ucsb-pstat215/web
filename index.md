@@ -50,13 +50,23 @@ for statistical inference.  Topics include:
 
 ### Textbook
 - **Required:** Andrew Gelman, John Carlin et al. __Bayesian Data Analysis__;  [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/)
-Additional optional resources:
+
+#### Additional optional resources:
 - **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
 - **Optional** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
 
 ### Computing Platform
-The computing platform (Jupyter Notebooks) for the course is hosted at []().  *All of your work should be completed here. BOOKMARK THIS LINK.*
+The computing platform (Jupyter Notebooks) for the course is hosted at
+[pstat215.lsit.ucsb.edu](pstat215.list.ucsb.edu).  You can do all of you work
+here or on your own computer. Since we are using quarto, if you are working on your own computer, you must download
+the newest version of Rstudio.
+
+If you are working on the lsit site, you should use the bitly link to
+automatically sync course material: []()
+
+If you are working on your own computer you can get all the courses files, as they are
+released, via github: []()
 
 
 ### Contact us on Nectir!
@@ -76,7 +86,7 @@ Your mastery of class material will be assessed in the following ways, and final
 *	5% Class Participation
 *	40% Homework Assignments
 *  20% Take-home Midterm Exam (November 3, tentative)
-*	34 Final Project Writeup Due (Wednesday, March 16, 2022)
+*	35% Final Project Writeup Due (Wednesday, March 16, 2022)
 
 ### Participation <a name="participation"></a>
 Lecture and section attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. However, everybody benefits when there is more participation and engagement with the material during lab and lecture.

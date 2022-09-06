@@ -39,18 +39,15 @@ offering_links:
   - title: Links
     dropdown:
       - title: pstat215.lsit.ucsb.edu
-        url: https://bit.ly/3mSOXtM
+        url: 
         description: "Sync material to the cloud"
       - title: Lecture link
-        url: https://ucsb.zoom.us/j/86960464797?pwd=aTdnbFRGSGpBbklEREVhSmpDL3dVdz09
+        url:
         description: zoom link to lecture
       - title: Lecture recordings
-        url: https://drive.google.com/drive/folders/16OItK0b0wu00wUHDdKJvpPj7i0v1hgt4?usp=sharing
-      - title: Gradescope
-        url: https://www.gradescope.com/courses/344698
+        url:
       - title: Nectir
-        url: https://ucsb.nectir.io/group/pstat215-w22
+        url: https://ucsb.nectir.io/group/pstat215-F22
         description: "Q&A Forum"
-      - title: Texbook
-        url: https://www.bayesrulesbook.com/
-        description: Course textbook - Bayes Rules
+      - title: github
+        url:
