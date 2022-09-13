@@ -1,3 +1,3 @@
 # web
 
-Website at https://ucsb-pstat115.github.io/web/
+Website at https://ucsb-pstat215.github.io/web/
