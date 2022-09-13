@@ -39,15 +39,15 @@ offering_links:
   - title: Links
     dropdown:
       - title: pstat215.lsit.ucsb.edu
-        url: 
+        url: https://tinyurl.com/3bs8uu8d
         description: "Sync material to the cloud"
-      - title: Lecture link
-        url:
-        description: zoom link to lecture
-      - title: Lecture recordings
-        url:
       - title: Nectir
         url: https://ucsb.nectir.io/group/pstat215-F22
         description: "Q&A Forum"
       - title: github
+        url: https://ucsb-pstat215.github.io/fall22
+      - title: Lecture link
+        url:
+        description: zoom link to lecture
+      - title: Lecture recordings
         url:
