@@ -42,7 +42,7 @@ offering_links:
         url: https://tinyurl.com/3bs8uu8d
         description: "Sync material to the cloud"
       - title: Nectir
-        [<8;51;40murl: https://ucsb.nectir.io/group/pstat215-F22
+        url: https://ucsb.nectir.io/group/pstat215-F22
         description: "Q&A Forum"
       - title: github
         url: https://github.com/ucsb-pstat215/fall22
