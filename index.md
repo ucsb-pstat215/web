@@ -62,11 +62,11 @@ The computing platform (Jupyter Notebooks) for the course is hosted at
 here or on your own computer. Since we are using quarto, if you are working on your own computer, you must download
 the newest version of Rstudio.
 
-If you are working on the lsit site, you should use the bitly link to
-automatically sync course material: []()
+If you are working on the lsit site, you should use the following link to
+automatically sync course material: [https://tinyurl.com/3bs8uu8d](https://tinyurl.com/3bs8uu8d)
 
 If you are working on your own computer you can get all the courses files, as they are
-released, via github: []()
+released, via github: [https://github.com/ucsb-pstat215/fall22](https://github.com/ucsb-pstat215/fall22)
 
 
 ### Contact us on Nectir!
@@ -79,7 +79,8 @@ is onthe same page and everyone can benefit from the response.
 ### Drop-in Hours
 It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
 
-TBD
+Drop-in hours will be immediately after class Thursday, 3:30-4:45pm in Prof.
+Franks' office, South Hall 5522.
 
 # ASSESSMENTS AND GRADES<a name="grades"></a>
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
@@ -104,11 +105,11 @@ All assignments must be an Rmarkdown (```.rmd```) or Quarto (```.qmd```) documen
 
 ### Midterm Exam
 
-TBD
+Take Home Exam, Thursday November, 3rd.
 
 ### Final Project
 
-TBD
+Due on the final exam day, more information to come.
 
 ## Late Policy<a name="late-policy"></a>
 
@@ -117,7 +118,7 @@ Homework will be accepted up to 1 day (24 hours) late; a homework submitted with
 If there is a properly documented family emergency, extended illness, documented required court appearance, or other situation beyond the students’ control (with appropriate official detailed documentation) the instructor may extend an assignment deadline, entirely at the instructor’s discretion. 
 
 ## Learning Cooperatively
-We encourage you to discuss all of the course activities with your friends and classmates as you are working on them, either on Piazza, or through a personally chat or zoom. Although more difficult this quarter, you will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally on piazza.  
+We encourage you to discuss all of the course activities with your friends and classmates as you are working on them, either on Nectir, or through a personally chat or zoom. 
 
 ## Academic Honesty
 
@@ -129,5 +130,7 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 
 ## Slides and Recordings <a name="recordings"></a>
 
-All lecture material including slides will be posted after class on the cloud server.  Recordings of any remote lectures will also be posted.
+All lecture material including slides will be posted after class on the cloud
+server.  Recordings of any remote lectures will also be posted. Lecturers will
+be in person and not recorded, unless stated otherwise.
 
