@@ -52,10 +52,12 @@ for statistical inference.  Topics include:
 - **Required:** Andrew Gelman, John Carlin et al. __Bayesian Data Analysis__;  [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/)
 
 #### Additional optional resources:
+- **Optional:** Christian Robert __The Bayesian Choice__;  [https://link.springer.com/book/10.1007/0-387-71599-1]
 - **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
-- **Optional** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
-
+- **Optional** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__
+  [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
+  
 ### Computing Platform
 The computing platform (Jupyter Notebooks) for the course is hosted at
 [pstat215.lsit.ucsb.edu](pstat215.list.ucsb.edu).  You can do all of you work
