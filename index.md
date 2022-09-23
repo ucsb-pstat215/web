@@ -60,7 +60,7 @@ for statistical inference.  Topics include:
   
 ### Computing Platform
 The computing platform (Jupyter Notebooks) for the course is hosted at
-[pstat215.lsit.ucsb.edu](pstat215.list.ucsb.edu).  You can do all of you work
+[https://pstat215.lsit.ucsb.edu](https://pstat215.list.ucsb.edu).  You can do all of you work
 here or on your own computer. Since we are using quarto, if you are working on your own computer, you must download
 the newest version of Rstudio.
 
@@ -72,7 +72,10 @@ released, via github: [https://github.com/ucsb-pstat215/fall22](https://github.c
 
 
 ### Contact us on Nectir!
-All class related questions should be handled through Nectir. Our class page is here: [https://ucsb.nectir.io/group/PSTAT215-F22](https://ucsb.nectir.io/group/PSTAT215-F22).  An invite link was sent out via Gauchospace.
+All class related questions should be handled through Nectir. Our class page is
+here:
+[https://ucsb.nectir.io/group/PSTAT215-F22](https://ucsb.nectir.io/group/PSTAT215-F22).
+An invite link was sent out via Gauchospace or you can use the invite link here: [https://app.nectir.io/invite/7hnEew](https://app.nectir.io/invite/7hnEew)
 
 We ask that when you have a question about the class that might be relevant to
 other students, post it on Nectir **instead of emailing me**. That way, everyone
