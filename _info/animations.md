@@ -14,6 +14,41 @@ ready: true
 <img src="/web/info/gifs/bball.gif">
 </details>
 
+### Rejection Sampling
+
+<details>
+<summary></summary>
+<img src="/web/info/gifs/rs-gif-1.gif">
+</details>
+
+<details>
+<summary></summary>
+<img src="/web/info/gifs/rs-gif-2.gif">
+</details>
+
+<details>
+<summary></summary>
+<img src="/web/info/gifs/rs-gif-3.gif">
+</details>
+
+### Importance Sampling
+
+<details>
+<summary></summary>
+<img src="/web/info/gifs/is_uniform.gif">
+</details>
+
+
+<details>
+<summary></summary>
+<img src="/web/info/gifs/is_beta.gif">
+</details>
+
+<details>
+<summary></summary>
+<img src="/web/info/gifs/is_normal.gif">
+</details>
+
 <!-- ### Quantiles and Highester Posterior Density  -->
 
 <!-- <details> -->
