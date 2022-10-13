@@ -34,18 +34,18 @@ ready: true
 ### Importance Sampling
 
 <details>
-<summary></summary>
+<summary>Uniform Proposal</summary>
 <img src="/web/info/gifs/is_uniform.gif">
 </details>
 
 
 <details>
-<summary></summary>
+<summary>Beta(1, 2) Proposal</summary>
 <img src="/web/info/gifs/is_beta.gif">
 </details>
 
 <details>
-<summary></summary>
+<summary>Normal Proposal</summary>
 <img src="/web/info/gifs/is_normal.gif">
 </details>
 
