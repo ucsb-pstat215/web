@@ -17,17 +17,17 @@ ready: true
 ### Rejection Sampling
 
 <details>
-<summary></summary>
+<summary>Rejection Sampling 1</summary>
 <img src="/web/info/gifs/rs-gif-1.gif">
 </details>
 
 <details>
-<summary></summary>
+<summary>Rejection Sampling 2</summary>
 <img src="/web/info/gifs/rs-gif-2.gif">
 </details>
 
 <details>
-<summary></summary>
+<summary>Rejection Sampling 2</summary>
 <img src="/web/info/gifs/rs-gif-3.gif">
 </details>
 
