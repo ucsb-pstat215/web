@@ -14,6 +14,13 @@ ready: true
 <img src="/web/info/gifs/bball.gif">
 </details>
 
+### Inversion Sampling
+
+<details>
+<summary>Inversion Sampling</summary>
+<img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
+</details>
+
 ### Rejection Sampling
 
 <details>
@@ -75,10 +82,7 @@ ready: true
 <!-- </div> -->
 <!-- </details> -->
 
-<!-- <details> -->
-<!-- <summary>Inversion Sampling</summary> -->
-<!-- <img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;"> -->
-<!-- </details> -->
+
 
 <!-- ### Markov Chain Monte Carlo  -->
 
