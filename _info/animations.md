@@ -25,17 +25,17 @@ ready: true
 
 <details>
 <summary>Rejection Sampling 1</summary>
-<img src="/web/info/gifs/rs-gif-1.gif">
+<img src="/web/info/gifs/rs_gif-1.gif">
 </details>
 
 <details>
 <summary>Rejection Sampling 2</summary>
-<img src="/web/info/gifs/rs-gif-2.gif">
+<img src="/web/info/gifs/rs_gif-2.gif">
 </details>
 
 <details>
 <summary>Rejection Sampling 2</summary>
-<img src="/web/info/gifs/rs-gif-3.gif">
+<img src="/web/info/gifs/rs_gif-3.gif">
 </details>
 
 ### Importance Sampling
