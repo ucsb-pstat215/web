@@ -30,12 +30,12 @@ ready: true
 
 <details>
 <summary>Rejection Sampling 2</summary>
-<img src="/web/info/gifs/rs_gif-2.gif" style="width: 600px; height: auto;">
+<img src="/web/info/gifs/rs_gif2-1.gif" style="width: 600px; height: auto;">
 </details>
 
 <details>
 <summary>Rejection Sampling 2</summary>
-<img src="/web/info/gifs/rs_gif-3.gif" style="width: 600px; height: auto;">
+<img src="/web/info/gifs/rs_gif3-1.gif" style="width: 600px; height: auto;">
 </details>
 
 ### Importance Sampling
